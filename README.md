@@ -1,4 +1,4 @@
-# Kad.py
+# Kad.py v0.1
 
 Script for the web scraping site kad.arbitr.ru
 
