@@ -1,6 +1,6 @@
 # Kad.py
 
-Script for web scrap site kad.arbitr.ru
+Script for the web scraping site kad.arbitr.ru
 
 ## Run
 
